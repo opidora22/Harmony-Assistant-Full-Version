@@ -232,3 +232,6 @@ This repository serves as the official landing page for Harmony Assistant. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Harmony Assistant today!**
+
+---
+**Last updated:** 2026-09-10 23:00:09 UTC
